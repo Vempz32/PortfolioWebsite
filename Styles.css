@@ -1,4 +1,12 @@
 body{
-    color: red;
+    background-color: grey;
+}
+h1{
+    
     text-align: center;
 }
+.title1{
+    text-align:end;
+}
+
+
