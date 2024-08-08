@@ -5,8 +5,13 @@ h1{
     
     text-align: center;
 }
-.title1{
-    text-align:end;
+div.Portfolio{
+    width:100%;
+    overflow: auto;
+    
 }
-
-
+div.Portfolio div{
+    width: 33%;
+    float: left;
+    align-text: center;
+}
