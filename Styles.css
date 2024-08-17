@@ -1,17 +1,25 @@
 body{
-    background-color: grey;
+    background-color: #03071e;
 }
 h1{
     
     text-align: center;
+    color: white;
+  font-family: "Roboto Slab", serif;
+}
+.frosty{
+    align-items:left;
 }
 div.Portfolio{
     width:100%;
     overflow: auto;
     
 }
+
 div.Portfolio div{
+    
     width: 33%;
     float: left;
-    align-text: center;
+    color: white;
+    font-family: "Roboto Slab", serif;
 }
